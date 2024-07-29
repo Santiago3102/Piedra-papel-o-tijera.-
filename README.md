@@ -1,6 +1,6 @@
 ﻿# Rock, Paper, Scissors Game
 
-![Imagen del Proyecto](https://github.com/Santiago3102/Piedra-papel-o-tijera.-/blob/main/Captura%20de%20pantalla%202024-07-29%20013027.png?raw=true)
+![Imagen del Proyecto](https://github.com/Santiago3102/Piedra-papel-o-tijera.-/blob/main/Captura%20de%20pantalla%202024-07-29%20025153.png?raw=true)
 
 Project: Rock, Paper, Scissors Game
 
